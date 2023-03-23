@@ -12,18 +12,19 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/greeting"
-        android:textSize="30sp"
         android:textColor="@color/hotpink"
-        />
+        android:textSize="30sp" />
+
     <Button
+        android:id="@+id/btn1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:text="Button1 Prac"/>
+        android:text="Button1 Prac" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:text="Button2 Prac"/>
+        android:text="Button2 Prac" />
 </LinearLayout>
