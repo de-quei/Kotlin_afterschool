@@ -2,4 +2,7 @@
     <string name="app_name">TestAndroid</string>
     <string name="greeting">Hi, there!</string>
     <string name ="btn1_text">Open Naver WebPage</string>
+    <string name ="btn2_text">Call my Mom</string>
+    <string name ="btn3_text">Open Gallery</string>
+    <string name ="btn4_text">Exit</string>
 </resources>
